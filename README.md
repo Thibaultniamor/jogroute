@@ -4,7 +4,7 @@ Application web (100 % navigateur, aucun serveur applicatif) qui calcule un
 parcours de course à pied optimisé pour être **agréable** : chemins, sentiers,
 parcs et rues calmes plutôt que grands axes.
 
-**▶ Essayer en ligne : <https://thibaultniamor-commits.github.io/jogroute/>**
+**▶ Essayer en ligne : <https://thibaultniamor.github.io/jogroute/>**
 (rien à installer, s'installe aussi comme application, fonctionne hors ligne)
 
 Aucune clé d'API, aucun compte, aucun quota : toutes les sources utilisées sont
@@ -14,7 +14,7 @@ publics OpenStreetMap.
 ## Lancer
 
 ### En ligne
-Ouvrir <https://thibaultniamor-commits.github.io/jogroute/>. Sur téléphone,
+Ouvrir <https://thibaultniamor.github.io/jogroute/>. Sur téléphone,
 « Ajouter à l'écran d'accueil » installe l'app ; elle démarre ensuite sans
 réseau.
 
